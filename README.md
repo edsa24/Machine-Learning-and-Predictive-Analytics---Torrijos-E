@@ -2,7 +2,7 @@
 MO-IT134
 
 ## Program and Section
-BSIT-A1101
+BSIT- S3101
 
 ## Student
 Torrijos, Edsa Mae
@@ -109,4 +109,26 @@ Target: `frequent_buyer` (1 = likely to buy, 0 = not likely)
 - Draft Milestone 1 is the first version of the model  
 - Final Milestone 1 includes the polished model, evaluation, and results  
 
+---
 
+## Additional Notes
+
+The presentation slides are submitted separately as required in the course guidelines.
+The core model implementation remained unchanged, as it was already functioning correctly.
+Improvements were focused on:
+Adding detailed documentation
+Presenting forecasted results clearly
+Enhancing visualizations
+
+=== 
+
+## Author
+
+edsa torrijos
+BSIT Student – Machine Learning & Predictive Analytics
+
+---
+
+## Acknowledgment
+
+This project was developed as part of the Terminal Assessment for the Machine Learning and Predictive Analytics course.
